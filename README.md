@@ -8,13 +8,6 @@ This is a solution to the [Multi-step form challenge on Frontend Mentor](https:/
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -36,7 +29,12 @@ Users should be able to:
 
 ### Screenshot
 
-
+<img width="960" alt="image" src="https://github.com/shubhjhawar/multi-step-form-main/assets/67875612/e60f1185-982e-4336-b7e8-6a2c5515dc36">
+<img width="960" alt="image" src="https://github.com/shubhjhawar/multi-step-form-main/assets/67875612/bbdd1a5d-b765-4c8d-9a5e-707fb0116b26">
+<img width="960" alt="image" src="https://github.com/shubhjhawar/multi-step-form-main/assets/67875612/9428e066-1ad5-461c-beaa-31fdcd61c4f3">
+<img width="960" alt="image" src="https://github.com/shubhjhawar/multi-step-form-main/assets/67875612/bd28b66c-dc2d-4d49-a662-27a895ff1386">
+<img width="960" alt="image" src="https://github.com/shubhjhawar/multi-step-form-main/assets/67875612/b62a7663-9238-4add-aec5-6a4560550599">
+<img width="960" alt="image" src="https://github.com/shubhjhawar/multi-step-form-main/assets/67875612/ea06bde8-4870-49ec-b2b1-69bc72c82e0e">
 
 ### Links
 
